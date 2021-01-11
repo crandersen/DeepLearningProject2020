@@ -1,6 +1,0 @@
-Structure: WZ
-Number of layers: 52
-Number of pairs:14248.0
-Diameter in nm: 97.99999999999999
-Height in nm: 233.90080572597134
-rotation around z in Deg: 54
